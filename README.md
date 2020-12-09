@@ -1,6 +1,5 @@
 # AistrighChat
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+Compainion Piece to AistrighNLP, Chatbot built with Angular and Dialogflow. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
 ## Development server
 
