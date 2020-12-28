@@ -2,7 +2,7 @@
 
 Derived from https://pusher.com/tutorials/group-chat-angular-dialogflow#integrating-dialogflow-with-our-server
 Compainion Piece to AistrighNLP https://github.com/JustCunn/AistrighNLP, developed for BTYSE 2021 https://btyoungscientist.com/ Chatbot built with Angular and Dialogflow. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
-
+© Fintan Lalor and Justin Cunningham 2020
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
